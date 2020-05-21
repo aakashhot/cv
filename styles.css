@@ -1,0 +1,131 @@
+
+body{
+  margin: 0;
+  text-align: center;
+background-color: #d7fffd;
+
+}
+h1
+{
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.2rem;
+}
+h2
+{
+  color: #66bfbf;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+h3
+{
+  color: #11999E;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+hr {
+  border-style: none;
+  border-style: dotted none none;
+  height: 1px;
+  border-width: 6px;
+  border-color: grey;
+  width: 5%;  }
+.topcontainer{
+  padding-top: 100px;
+}
+.middlecontainer{
+  margin: 100px 0;
+  margin-bottom: 100px;
+
+}
+.bottomconatiner
+{
+  background-color: blue;
+
+}
+
+.pro
+{
+  text-decoration: underline;
+  font-size: 50px;
+}
+.cloud2{
+  position:
+  absolute;
+}
+.cloud1{
+  position: relative;
+  left:200px;
+}
+.profile_image{
+  padding-top: 100px;
+  width: 10%;
+}
+.image1{
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+
+}
+.description2
+{
+  float: left;
+}
+
+.image2{
+  width: 25%;
+  float: right;
+  margin-right: 35%;
+}
+.programmer{
+  color: #66bfbf;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+.skill-row
+{
+  margin: 100px 20% 200px auto;
+  width: 50%;
+  text-align: left;
+
+
+}
+p
+{
+  font-family: sans-serif;
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  margin: 60%;
+}
+.footer-link{
+  margin-bottom: 100px;
+  margin: 300px;
+}
+.btn {
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0.1px 1px 0.1px #3b528c;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.btn{
+  margin: auto;
+}
